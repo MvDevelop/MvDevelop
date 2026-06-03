@@ -1,4 +1,3 @@
-
 ## Hello! I'm Vinicius Dilly 👋 !!!
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mvdev-portfolio.vercel.app/)
@@ -42,4 +41,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain.svg" 
 />
 
+<br clear="left"/>
 <br/>
+
+## Last Projects 🚀
+
+Here are some of my latest projects built across different fullstack architectures:
+
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🦜 Macaw English School** | English School Platform | `React` `TypeScript` `.NET` | [Live Demo](https://macaw-english-course.vercel.app/) \| [Code](https://github.com) |
+| **🌐 Macaw Social Media** | Full-scale Social Network | `Next.js` `TypeScript` `Supabase` | [Live Demo](https://macaw-social-media.vercel.app/) \| [Code](https://github.com) |
+| **🐍 Snake´s Game** | Retro Arcade Mini-Game | `React` `JavaScript` `Tailwind CSS` | [Live Demo](https://snake-game-inky-pi.vercel.app/) \| [Code](https://github.com) |
